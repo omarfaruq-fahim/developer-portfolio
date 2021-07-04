@@ -11,8 +11,12 @@ h3 {
 .orange-color {
   color: orangered;
 }
+.nevi-blue {
+  color: purple;
+}
 section {
   display: flex;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
@@ -21,6 +25,7 @@ section {
 .half-width img {
   width: 60%;
   padding-left: 5%;
+  margin-top: 5%;
 }
 .link-button {
   text-decoration: none;
@@ -32,6 +37,11 @@ section {
   border-radius: 5px;
 }
 .top-banner {
+  background-image: url(dising/logo2.jfif);
+  background-repeat: no-repeat;
+}
+.dream-big {
   background-image: url(dising/logo1.png);
   background-repeat: no-repeat;
+  background-position: right;
 }
